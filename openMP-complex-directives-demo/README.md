@@ -1,4 +1,4 @@
-# OpenMP Parallel 
+# OpenMP Parallel Summation
 
 This repository contains an example of using OpenMP to perform parallel summation on an array of integers in C++.
 

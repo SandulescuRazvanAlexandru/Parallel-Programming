@@ -1,0 +1,1 @@
+Developed a 'Parallel Programming' repository in C++, showcasing advanced multi-threading and OpenMP techniques in C++, including cache coherence demonstrations, race condition resolutions, and optimized parallel algorithms.
