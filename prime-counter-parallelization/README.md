@@ -1,4 +1,4 @@
-# Prime Counter Parallelization README
+# Prime Counter Parallelization
 
 ## Introduction
 This project focuses on parallelizing the task of counting prime numbers up to a given size `N`. Several approaches are utilized, including sequential, parallel with race conditions, parallel with mutex locks, and parallel using OpenMP, among others.
