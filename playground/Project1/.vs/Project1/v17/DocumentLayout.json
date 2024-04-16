@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Learning\\Masterat\\Folder\\Sem_2\\Dist and Parl\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\RazvanSandulescu\\Desktop\\Parallel-Programming\\Parallel-Programming\\playground\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3A1F838-32A3-4FE8-B76B-E8A0D30163BD}|Project1\\Project1.vcxproj|F:\\Learning\\Masterat\\Folder\\Sem_2\\Dist and Parl\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A3A1F838-32A3-4FE8-B76B-E8A0D30163BD}|Project1\\Project1.vcxproj|C:\\Users\\RazvanSandulescu\\Desktop\\Parallel-Programming\\Parallel-Programming\\playground\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A1F838-32A3-4FE8-B76B-E8A0D30163BD}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "F:\\Learning\\Masterat\\Folder\\Sem_2\\Dist and Parl\\Project1\\Project1\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\RazvanSandulescu\\Desktop\\Parallel-Programming\\Parallel-Programming\\playground\\Project1\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Project1\\Source.cpp",
-              "ToolTip": "F:\\Learning\\Masterat\\Folder\\Sem_2\\Dist and Parl\\Project1\\Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\RazvanSandulescu\\Desktop\\Parallel-Programming\\Parallel-Programming\\playground\\Project1\\Project1\\Source.cpp",
               "RelativeToolTip": "Project1\\Source.cpp",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAG0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-16T11:49:32.582Z",
               "EditorCaption": ""
